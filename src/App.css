@@ -1,0 +1,12 @@
+#root {
+  background-color: #ffffff;
+  width: 100vw;
+}
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #efefef;
+  padding: 4rem 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
